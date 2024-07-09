@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://github.com/CrispyXUK/microgreenssupply.com/blob/4d97bc85744f52ee4eeff5248f86a17be77438e0/assets/images/mgs-background.png
+heroimage: https://github.com/CrispyXUK/microgreenssupply.com/blob/4d97bc85744f52ee4eeff5248f86a17be77438e0/assets/images/mgs-background.png?raw=true
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
